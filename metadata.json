@@ -1,0 +1,6 @@
+{
+  "name": "CampusBites - College Canteen Ordering & Delivery",
+  "description": "Production-ready campus food ordering & delivery platform for college canteens with role-based portals for Students, Vendors, Delivery Agents, and Campus Admins, powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
